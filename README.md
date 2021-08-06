@@ -62,11 +62,14 @@ Final reports include each of the following:
   * Item Price
   * Total Purchase Value
 
-![image](https://user-images.githubusercontent.com/77474724/128555908-e3584f29-d95e-45ac-852b-1041d56d1f0f.png)
 
-![image](https://user-images.githubusercontent.com/77474724/128555986-9312ac7e-709c-4045-b550-077f111cc36b.png)
+![image](https://user-images.githubusercontent.com/77474724/128556973-19258569-ab17-4ecb-ab29-92b135105fe4.png)
 
-![image](https://user-images.githubusercontent.com/77474724/128556035-d917645d-3b6f-42da-8caa-bd0b0dce14c3.png)
+
+![image](https://user-images.githubusercontent.com/77474724/128557065-7edca822-3f57-475a-bb96-0ba5baf0abf8.png)
+
+
+
 
 
 
