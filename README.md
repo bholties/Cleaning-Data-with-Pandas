@@ -63,10 +63,7 @@ Final reports include each of the following:
   * Total Purchase Value
 
 
-![image](https://user-images.githubusercontent.com/77474724/128556973-19258569-ab17-4ecb-ab29-92b135105fe4.png)
-
-
-![image](https://user-images.githubusercontent.com/77474724/128557065-7edca822-3f57-475a-bb96-0ba5baf0abf8.png)
+![image](https://user-images.githubusercontent.com/77474724/128557179-b4f42872-7096-4040-852b-5ca892c88e42.png)
 
 
 
